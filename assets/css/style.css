@@ -1,0 +1,47 @@
+:root {
+	--primary: #4338ca;
+	--secondary: #333;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+:focus {
+  outline: 0;
+}
+
+body {
+	font-family: "Segoe UI", "Helvetica Neue", Inter, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #111;
+	margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    line-height: 1.3em;
+}
+
+a {
+	color: var(--primary);
+}
+	a:hover {
+		color: #111;
+		text-decoration: none;
+	}
+
+.main {
+	margin: 60px auto 30px auto;
+	max-width: 900px;
+}
+
+header {
+	text-align: center;
+	font-size: 1.5em;
+	margin-bottom: 60px;
+}
+
+header h1 {
+    color: var(--primary);
+}
