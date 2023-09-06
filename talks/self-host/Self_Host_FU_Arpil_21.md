@@ -246,7 +246,7 @@ git.mrkaran.dev.        A       IN      300s    172.67.187.239  100.119.138.27:5
 
 - Pi-Hole, Gitea, etc Admin interfaces must always be protected with strong passwords.
 
-- Periodic **updates** to App and OS.
+- Periodic updates to App and OS.
 
 ---
 
